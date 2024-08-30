@@ -1,0 +1,28 @@
+/* Basic reset */
+body, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3df13d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background-color: #e9e786;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(13, 13, 110, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+}
+
+h2 {
+    color: #200707;
+}
